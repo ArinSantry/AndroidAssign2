@@ -1,5 +1,6 @@
 Author: Arin Santry
 Class: Andriod Development, Fall 2019
+Built in: Android Studio
 
 This Android app simulates a game of chess using a two-dimensional array of buttons.
 When the app is opened, it sets the pieces (both black and white) in their default places.
